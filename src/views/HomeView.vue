@@ -14,7 +14,7 @@
       <HalfTimer v-if="court"/>
       <FullTimer v-if="!court"/>
     </div>
-      <h3 class="desi">Designed By <a href="https://twitter.com/Uvieeu">Uviie</a></h3>
+      <h3 class="desi">Designed By <a href="https://twitter.com/Uvieeu" target="_blank">Uviie</a></h3>
   </div>
 </template>
 
