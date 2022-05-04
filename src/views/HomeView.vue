@@ -13,8 +13,8 @@
 
       <HalfTimer v-if="court"/>
       <FullTimer v-if="!court"/>
-
     </div>
+      <h3 class="desi">Designed By <a href="https://twitter.com/Uvieeu">Uviie</a></h3>
   </div>
 </template>
 

@@ -80,3 +80,11 @@ input, textarea {
     background-color: rgba(0, 0, 0, 0.5);
   }
 }
+a {
+  color: #c35a14;
+  text-decoration: none;
+}
+.desi, a {
+  font-size: 20px;
+  font-weight: 800;
+}
